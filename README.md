@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Prabhat Chauhan
-🚀 Senior Software Developer | .NET Core | Angular | Microservices | Azure  
+🚀 Full Stack Software Developer | .NET Core | Angular | Microservices | Azure  
 
 🔹 12+ years of experience in software development  
 🔹 Expertise in designing scalable, high-performance applications  
